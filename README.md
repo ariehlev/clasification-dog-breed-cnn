@@ -7,3 +7,12 @@ The aim of this project is to build a pipeline to process real-world, user-suppl
 - saved_models: folder that serves as as placeholder to save the models we create
 - haarcascades: contains an xml file of the haarcascade model
 - extract_bottleneck_features.py: python script used to extract the bottleneck features
+
+# Libraries
+The libraries used were: keras, numpy, glob, random, cv2, matplotlib, tqdm, PIL, and IPython
+
+# Summary of Analysis and Conclusions
+Overall, the model was able to identify the dog breed with an 80% accuracy given an image of a dog. Further, the model performed very well in identifying what is a dog, what is a human, and what's not any of them. Which was a crucial part of the project.
+
+# Acknowledgements
+I would like to thank the Udacity team for putting up this project and for all their support during my Data Science Nanodegree course
